@@ -1,6 +1,7 @@
 # exam-so-sistemas-2019-01
 
 1. Mediciones con puerta cerrada iniciando del for y terminando for 
+
 -argumento 10000: se ejecuto en 0.001 s
 
 -argumento 100000: se ejecuto en 0.002 s
@@ -10,7 +11,9 @@
 -argumento 10000000: se ejecuto en 0.068 s
 
 -argumento 100000000: se ejecuto en 0.670 s
+
 Mediciones con puerta cerrada justo antes de var compartida y puerta abierta justo despues de var compartida
+
 -argumento 10000: se ejecuto en 0.002 s
 
 -argumento 100000: se ejecuto en 0.013 s
